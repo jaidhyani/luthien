@@ -1,3 +1,6 @@
 [submodule "luthien_site"]
 	path = luthien_site
 	url = https://github.com/jaidhyani/luthien_site.git
+[submodule "luthien_demo"]
+	path = luthien_demo
+	url = https://github.com/jaidhyani/luthien_demo.git
